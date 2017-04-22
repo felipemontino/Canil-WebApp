@@ -1,0 +1,14 @@
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.deps.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.runtimeconfig.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.runtimeconfig.dev.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.pdb
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.pdb
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.AssemblyInfo.cs
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio.Tests\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.Tests.pdb

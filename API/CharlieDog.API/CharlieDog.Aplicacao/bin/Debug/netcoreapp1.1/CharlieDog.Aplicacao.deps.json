@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "charliedog.aplicacao/1.0.0": {
+        "dependencies": {
+          "CharlieDog.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "CharlieDog.Aplicacao.dll": {}
+        }
+      },
+      "charliedog.dominio/1.0.0": {
+        "runtime": {
+          "CharlieDog.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "charliedog.aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "charliedog.dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

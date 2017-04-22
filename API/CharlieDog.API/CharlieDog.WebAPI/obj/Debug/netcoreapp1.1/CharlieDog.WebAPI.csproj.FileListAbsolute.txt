@@ -1,0 +1,13 @@
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.WebAPI.deps.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.WebAPI.runtimeconfig.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.WebAPI.runtimeconfig.dev.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.WebAPI.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.WebAPI.pdb
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\obj\Debug\netcoreapp1.1\CharlieDog.WebAPI.csprojResolveAssemblyReference.cache
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\obj\Debug\netcoreapp1.1\CharlieDog.WebAPI.AssemblyInfo.cs
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\obj\Debug\netcoreapp1.1\CharlieDog.WebAPI.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\obj\Debug\netcoreapp1.1\CharlieDog.WebAPI.pdb
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.Aplicacao.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.Aplicacao.pdb
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.WebAPI\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.pdb

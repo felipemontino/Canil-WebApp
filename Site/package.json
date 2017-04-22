@@ -1,0 +1,11 @@
+{
+  "name": "charliedog",
+  "version": "1.0.0",
+  "description": "Loja online do canil Charlie e Dogs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Montino",
+  "license": "ISC"
+}

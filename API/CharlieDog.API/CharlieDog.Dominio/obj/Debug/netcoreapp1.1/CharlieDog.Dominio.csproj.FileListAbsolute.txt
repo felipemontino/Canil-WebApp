@@ -1,0 +1,7 @@
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.deps.json
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\bin\Debug\netcoreapp1.1\CharlieDog.Dominio.pdb
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.csprojResolveAssemblyReference.cache
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.AssemblyInfo.cs
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.dll
+C:\Projetos Git\teste-dev-web\API\CharlieDog.API\CharlieDog.Dominio\obj\Debug\netcoreapp1.1\CharlieDog.Dominio.pdb
